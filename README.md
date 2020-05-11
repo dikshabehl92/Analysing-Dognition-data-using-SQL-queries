@@ -30,8 +30,8 @@ The analysis focuses on understanding the following-
  
  Business Changes Proposed:
  
- 1. Target marketing on certain types of Dognition tests to dog owners with dogs in the Herding and Sporting breed_groups might lead to an increase in the number of tests completed by users.
+ 1. Target marketing on certain types of Dognition tests to dog owners might lead to an increase in the number of tests completed by users.
  
- 2. Since most users complete the tests on Sunday and Friday has the least completion rate, it is a good idea to target reminder or encouragement messages to customers on Sundays.
+ 2. It is a good idea to target reminder or encouragement messages to customers on a certain day based on the analysis.
  
  3. Since Dognition is most likely to be used by English-speaking countries. They might want to consider transalation of website in different languages to increase participation from non-English speaking countries.
